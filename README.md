@@ -19,3 +19,19 @@ This Python script is a security auditing tool designed to check for **anonymous
 ### Potential Use Cases:
 - **Network Security Audits**: Identify devices with insecure anonymous FTP and SMB access in a network.
 - **Vulnerability Assessment**: Check for potential entry points for unauthorized access to critical network services.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Install the required dependencies:
+
+pip install smbprotocol
+
+
+Run the script:
+
+
+python anon_checker.py
